@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="categories">Categories</string>
+    <string name="top_trips">Top Trips</string>
+    <string name="explore">Explore</string>
+    <string name="book_now">Book Now</string>
+    <string name="title_activity_place_detail">PlaceDetailActivity</string>
+</resources>
